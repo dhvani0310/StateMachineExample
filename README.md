@@ -1,9 +1,12 @@
 # StateMachineExample
+Run SpringBoot Application locally and Run below link on Browser.
+http://localhost:8080/swagger-ui.html
+
+
 Directory structure and names of classes:
 Assuming that the Java RFQ state machine example application will have the following directory structure:
 
-perl
-Copy code
+
 |- src
     |- main
         |- java
